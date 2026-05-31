@@ -1,5 +1,0 @@
-prueba archivo nuevo desde VS CODE
-
-cambios desde mi rama principal
-
-cambios desde mi rama local
